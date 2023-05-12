@@ -11,8 +11,6 @@ setup(
         "astroquery",
         "matplotlib",
         "seaborn",
-        "tarfile",
-        "subprocess"
     ],
     author="Philip Rooney",
     author_email="p_rooney@hotmail.com",
