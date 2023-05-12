@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: xdp
+Version: 0.1.0
+Summary: A package to process x-ray astrophysical data
+Home-page: https://github.com/clustercosmos/xdp
+Author: Philip Rooney
+Author-email: p_rooney@hotmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+
+UNKNOWN
+
