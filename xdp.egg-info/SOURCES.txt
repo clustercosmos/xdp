@@ -1,3 +1,4 @@
+README.md
 setup.py
 xdp.egg-info/PKG-INFO
 xdp.egg-info/SOURCES.txt
