@@ -1,9 +1,11 @@
 # processing.py
-import os
+import numpy as np
+import pandas as pd 
+import matplotlib.pyplot as plt 
+import seaborn as sns
+from astroquery.esa.xmm_newton import XMMNewton
 import tarfile
-import requests
 import subprocess
-from astroquery.esa import XMMNewton 
 
 
 # Function to download and extract xmm observations
