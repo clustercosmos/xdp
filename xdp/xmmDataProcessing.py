@@ -3,12 +3,8 @@ import os
 import tarfile
 import requests
 import subprocess
-import astropy.io.fits as fits
-from astropy.coordinates import SkyCoord
-from astropy import units as u
-from astropy.table import Table
-from astropy.stats import sigma_clip
-from scipy.ndimage import gaussian_filter
+from astroquery.esa import XMMNewton 
+
 
 # Function to download and extract xmm observations
 def download_and_extract_xmm_observation(observation_id, save_path):
